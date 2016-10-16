@@ -1,0 +1,18 @@
+{
+  "name": "typeof",
+  "version": "1.0.0",
+  "description": "Helpers for checking object type, with good cross-browser support.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/rm-rf-etc/typeof"
+  },
+  "keywords": [
+    "typeof"
+  ],
+  "author": "Rob Christian",
+  "license": "ISC"
+}
