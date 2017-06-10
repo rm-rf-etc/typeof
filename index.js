@@ -1,9 +1,4 @@
 
-/*
- * This is where these helper functions will live for now. Development of ConciseJS will continue
- * to drive development of ConnectedJS, and these helpers.
- */
-
 if (typeof HTMLElement === 'undefined'){
   var HTMLElement = function HTMLElement(){}
 }
